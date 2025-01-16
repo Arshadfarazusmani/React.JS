@@ -1,2 +1,2 @@
 # Read me
-This repository will help you lern React js  
+This repository will help you  leran React js  
