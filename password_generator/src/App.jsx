@@ -89,7 +89,7 @@ useEffect(()=>{
           defaultChecked={numberAllowed}
           id="numberInput"
           onChange={() => {
-              setNumberAllowed((prev) => !prev);
+              setnumberAllowed((prev) => !prev);
           }}
       />
       <label htmlFor="numberInput" className='text-white'>Numbers</label>
